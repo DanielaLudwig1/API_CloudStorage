@@ -1,0 +1,5 @@
+
+//**
+
+ A responsabilidade deste arquivo é conter as implesmentação das classes e comunicar com fontes externas
+se comunicar com api do google, com banco de dados, email, sms etc

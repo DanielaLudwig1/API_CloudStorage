@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Infrastructure.deps.json
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Infrastructure.dll
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Infrastructure.pdb
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Domain.dll
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\bin\Debug\net8.0\CloudStorage.Domain.pdb
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.AssemblyInfo.cs
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.csproj.CopyComplete
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.dll
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\refint\CloudStorage.Infrastructure.dll
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\CloudStorage.Infrastructure.pdb
+C:\Users\danie\source\repos\CloudStorage\CloudStorage.Infrastructure\obj\Debug\net8.0\ref\CloudStorage.Infrastructure.dll

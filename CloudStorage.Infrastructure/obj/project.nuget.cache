@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nva4wAz2lKywf87ZoSa8673NWhUITr7ndo3V1GEY6CXj/6P/BYqED3A7G9PUjCJv56GEfinkyPFvGfv2If7FhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\CloudStorage\\CloudStorage.Infrastructure\\CloudStorage.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\google.apis\\1.67.0\\google.apis.1.67.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\google.apis.auth\\1.67.0\\google.apis.auth.1.67.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\google.apis.core\\1.67.0\\google.apis.core.1.67.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\google.apis.drive.v3\\1.67.0.3309\\google.apis.drive.v3.1.67.0.3309.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

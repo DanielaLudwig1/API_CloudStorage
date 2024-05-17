@@ -1,0 +1,3 @@
+//**
+
+Aqui se define um "Contrato" ou nesse caso uma Interface
